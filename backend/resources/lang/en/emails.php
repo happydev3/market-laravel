@@ -1,0 +1,92 @@
+<?php
+
+return [
+
+
+    /*Welcome Email for User*/
+    'title' => 'Dear',
+    'welcome_msg' => 'Welcome on Freeback! <br/> To have full access to the marketplace verify your email address by clicking on the button below. Thank you..',
+    'verify_btn_text' => 'Verify your email address',
+
+    'user_verified_mail_text' => 'Your email address has been verified. thank you.',
+    'user_error_mail_text' => 'There was an error during the email verification process. Check your email address or contact us.',
+
+
+    'mail_footer' => 'Freeback © Trademark of BlueRock Technologies LTD.',
+
+
+    'store_verified_mail_text' => 'Your email address has been verified. thank you.',
+    'store_error_mail_text' => 'There was an error during the email verification process. Check your email address or contact us.',
+
+
+    'store_title' => 'Dear',
+    'store_welcome_msg' => 'Welcome Message',
+    'store_btn_text' => 'Check your e-mail address',
+
+    /*After Mail Verified*/
+    'mail_verified_message' => 'We confirm that your personal profile is active. <br/> Start immediately to accumulate cashback with your discounted purchases. The discounts you will find on our marketplace are exclusive to our users! <br/> Consult our extensive catalog and choose the one that best suits your wishes.',
+    'store_mail_verified_message' => 'We confirm that your Business profile is active. <br/> Start uploading your products to our marketplace now, putting your catalog online has never been so easy!',
+
+
+    /*Ordine Completato Utente */
+    'mail_order_processed_user' => 'Thank you for choosing Freeback!',
+    'mail_order_processed_user_1' => 'We inform you that the order has been received and has been communicated to the merchant who will undertake to process it as quickly as possible. You can track the status of your order in the appropriate section of our website. You will receive an email notification as soon as your order is shipped.',
+
+
+    /*Conferma Spedizione Utente */
+
+    'mail_confirmed_shipping_user' => 'We are happy to inform you that your order has been shipped successfully and is in transit to the address you provide.',
+    'mail_confirmed_shipping_user1' => 'Below you will find details for tracking your order:',
+
+    /* mail notifica esercente*/
+    'mail_vendor_sell_notice' => 'We inform you that the following order has been made:',
+    'mail_vendor_sell_notice1' => 'Thank you for choosing our platform and congratulations on your sale! We remind you that the order must be sent as quickly as possible and that you can consult at any time the guidelines regarding the procedures for sending an order to our site. ',
+
+    /* password recovery*/
+    'mail_password_recovery'=> 'We are writing to you as we have received a request to change the password for your account on the Freeback marketplace.',
+    'mail_password_recovery1'=> 'If you did not request a new password, you may have made a mistake. In this case, do not click on the link below and ignore this message.',
+    'mail_password_recovery2'=> 'To change your password click on the following link:',
+    'mail_password_recovery3'=> 'For security reasons this link is valid for a single password change. Once the password is changed, the link can no longer be reused. ',
+
+    /*mail sollecito esercente*/
+    'mail_vendor_subscribing_reminder'=> 'We remind you that for the activation of your seller profile on the Freeback marketplace it is strictly necessary to provide all the data on the following documents:',
+    'mail_vendor_subscribing_reminder1'=> 'We also remind you to check the validity of the latter before sending them, or the activation of the account will be suspended until you provide the requested data. We hope to have you with us on our platform as soon as possible!',
+
+    /*mail file registrazione ricevuti*/
+    'mail_registration_documents_received'=> 'We are writing to inform you that we have received all the necessary documents to activate your vendor profile. We will check the latter as soon as possible and you will receive an email as soon as we have completed the control procedures.',
+    'mail_registration_documents_received1'=> 'Thank you for joining us.',
+
+    /*mail file registrazione esercente nonvalido*/
+    'invalid_vendor_registration_file'=> 'We regret to inform you that one or more of the documents you have provided to us are not valid. ',
+    'invalid_vendor_registration_file1'=> 'Further details:',
+    'invalid_vendor_registration_file2'=> 'We remind you that for the correct subscription to the Freeback marketplace it will be necessary to provide all the requested documents as specified in the subscription agreement, available in the appropriate section of our website:',
+    'invalid_vendor_registration_file3'=> 'We hope that the problem can be solved successfully and in the shortest possible time.',
+
+    /*ordine ricevuto esercente fisico*/
+    'order_received_instore_vendor'=> 'You have received an order! To start the procedures and send the order follow the guidelines for the shipment of goods from physical store in the appropriate section of our site: ',
+    'order_received_instore_vendor1'=> 'Buyer details:',
+    'order_received_instore_vendor2'=> 'Thank you for choosing our platform and congratulations on the sale made!',
+
+
+    'request_regard' => 'Regarding the request: ',
+    'staff_answer' => 'The staff answers: ',
+
+    'dispute_text_intro' => 'A notification of an order placed on your Freeback Store was recently opened. Please contact the user in question, and try to solve the problem. Details below.',
+    'dispute_text_footer' => 'Thanks for collaboration. <br/> Freeback Staff',
+    'order_created_at' => 'Order date:',
+    'order_courier' => 'Courier service: ',
+    'order_tracking' => 'Tracking Code: ',
+    'order_product' => 'Product ',
+    'order_product_qta' => 'Quantity',
+
+    //NEW
+    'order_shipped_user' => 'We are glad to inform you that your order has been received and it has been delivered to the practitioner which committed to process it as fast as possible. You will be able to keep track of your order in the appropriate section on our website. You will receive a notice via e-mail as soon as your order is correctly shipped.',
+
+
+
+    'store_order_notify_first' =>  'we are glad to inform you that the following order has been issued:',
+    'store_order_notify_tail' => 'Thank you for choosing our platform and congratulations for the received order! Please remember that the ordered items shall be shipped as soon as possible and that you can check the guidelines about the shipping procedures of an order on our website any time.',
+
+
+
+];

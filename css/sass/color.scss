@@ -1,0 +1,134 @@
+/*------------------
+  	MAIN PALETTE
+------------------*/
+$main-color: #21282a;
+$main-color-light: #535d5f;
+$main-color-dark: #202729;
+$primary-color: #ec2414;
+$primary-color-light: #f86b14;
+$primary-color-dark: #ff3813;
+$secondary-color: #f92d2e;
+$secondary-color-dark: #e10800;
+$tertiary-color: #e61852;
+$featured-color: #98ff41;
+$account-features-color: #717f82;
+$account-features-hover-color: #b6c6ca;
+$promo-dark-color: #242e30;
+$int-link-color: #b6c6ca;
+$grey: #d1d1d1;
+$white: #fff;
+$white-dark: #f5f5f5;
+$white-light: #e7e7e7;
+$overlay-color: #191f20;
+$popup-close-color: #101314;
+$invalid-color: #ea2e68;
+$slider-pager-color: #eff0f4;
+$slider-pager-selected-color: $primary-color;
+/*-------------
+    HOVERS
+-------------*/
+$primary-color-hover: #e71f15;
+$secondary-color-hover: #ff8d22;
+$secondary-color-dark-hover: #ec5f2b;
+$tertiary-color-hover: #f8436e;
+$dark-color-hover: #3b4a4e;
+$dark-light-color-hover: #647072;
+$fb-color-hover: #4868ae;
+$twt-color-hover: #2fd5f9;
+$db-color-hover: #fe5e87;
+$rss-color-hover: #ffb72d;
+$gplus-color-hover: #f42a50;
+$be-color-hover: #1b8ec3;
+$de-color-hover: #e10c89;
+/*---------------
+  	PARAGRAPH
+---------------*/
+$paragraph-color: #888;
+$paragraph-color-light: #b2b2b2;
+$paragraph-color-lighter: #abaeae;
+/*------------
+  	MENU
+------------*/
+$menu-hover-color: #f6f6f6;
+$menu-dark-bg-color: #3a494d;
+$menu-dark-pipe-color: #465559;
+$menu-dark-color: #222b2d;
+$menu-dark-text-color: #6a7779;
+$inner-dropdown-color: #1e2527;
+/*---------------
+  	GRADIENT
+---------------*/
+$gradient-init-color: $primary-color;
+$gradient-end-color: $secondary-color;
+$gradient2-init-color: #c61d21;
+$gradient2-end-color: $secondary-color;
+$gradient3-init-color: #f21c5e;
+$gradient3-end-color: #e43719;
+$gradient4-init-color: #de8f10;
+$gradient4-end-color: #dd134c;
+/*-------------
+  	BORDER
+-------------*/
+$main-border-color: #ebebeb;
+$dark-border-color: #e1e1e1;
+$dark-light-border-color: #d0d0d0;
+$menu-border-color: $main-border-color;
+$dropdown-border-color: $main-border-color;
+/*------------
+  	ARROW
+------------*/
+$main-arrow-color: $main-color-light;
+$light-arrow-color: #b2b2b2;
+$submenu-arrow-color: $main-color-light;
+/*------------
+  	STAR
+------------*/
+$star-filled-color: $featured-color;
+$star-empty-color: #cfcfcf;
+/*------------------
+  	VIEW SELECTOR
+------------------*/
+$view-selector-color: $grey;
+/*-----------------
+  	SOCIAL LINKS
+-----------------*/
+$fb-color: #355599;
+$twt-color: #0fccf4;
+$db-color: #f63f6e;
+$rss-color: #ffa312;
+$gplus-color: #e0133a;
+$be-color: #0d79ab;
+$de-color: #05cc47;
+/*-----------------
+  	PIE CHARTS
+-----------------*/
+$icon-dislike-color: #f92552;
+$icon-like-color: $primary-color;
+$icon-star-color: $featured-color;
+/*-------------
+  	BANNERS
+-------------*/
+$banner-violet: #5c4086;
+$banner-pink: #f8436e;
+$banner-blue: #077be6;
+/*------------
+  	FOOTER
+------------*/
+$footer-top-color: $main-color;
+$footer-bottom-color: #21282a;
+/*------------
+  	GRAPHS
+------------*/
+$graph-green-color: $primary-color;
+$graph-violet-color: #7c5ac2;
+$graph-blue-color: #108fe9;
+$graph-red-color: #ea2e68;
+$graph-lightgreen-color: #03f1b6;
+$graph-yellow-color: #ffdc1b;
+/*----------------
+  	TEXT ICONS
+----------------*/
+$ticon-green-color: $primary-color;
+$ticon-blue-color: #ff462e;
+$ticon-red-color: #ea2e68;
+$ticon-violet-color: #7c5ac2;

@@ -1,0 +1,20 @@
+.coming-soon-box {
+  width: 630px;
+  margin: 20px auto 0; }
+  .coming-soon-box p {
+    text-align: center; }
+    .coming-soon-box p br {
+      display: none; }
+  .coming-soon-box .text-header {
+    margin-bottom: 22px; }
+  .coming-soon-box .button {
+    width: 240px;
+    margin: 40px auto 0; }
+
+@media screen and (max-width: 935px) {
+  .coming-soon-box {
+    width: 90%; }
+    .coming-soon-box p br {
+      display: block; } }
+
+/*# sourceMappingURL=coming-soon.css.map */
